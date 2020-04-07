@@ -1,0 +1,36 @@
+# Example 2
+# usage:
+#   ./chsolve2.pl example2.txt
+#
+# Data format: <piece><square>
+#
+#  Pieces:
+#       K|k – king
+#       Q|q – queen
+#       R|r – rock
+#       N|n – knight
+#       B|b – bishop
+#       P|p – pawn
+#  where:
+#       [KQRNBP] – white pieces
+#       [kqrnbp] – black pieces
+
+B a3
+B a4
+p b2
+R b4
+p b5
+K b8
+k c3
+p d3
+p d4
+b e2
+N e6
+R f3
+Q f4
+n g1
+r g2
+n g5
+q h1
+r h5
+p h6
